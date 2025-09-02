@@ -9,7 +9,7 @@
 
 ###
 
-<div style:"display: flex">
+<div style="display: flex;">
   <h2 align="left">Languages:</h2>
   
   <div align="left">
@@ -33,7 +33,7 @@
 
 ###
 
-<div style:"display: flex">
+<div style="display: flex;">
   <h2 align="left">Frameworks:</h2>
   
   <div align="left">
@@ -55,7 +55,7 @@
 
 ###
 
-<div style:"display: flex">
+<div style="display: flex;">
   <h2 align="left">Techs:</h2>
 
   <div align="left">
